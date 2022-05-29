@@ -1,0 +1,10 @@
+POST   http://localhost:4000/app/savedata/
+Content-Type: application/json
+
+{
+    "fullName": "chris",
+    "height" : "3",
+    "email" : "tabkau@gmail.com"
+}
+
+
